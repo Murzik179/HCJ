@@ -8,3 +8,7 @@ table {
 h6 {
 	color: #666666;
 }
+p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
