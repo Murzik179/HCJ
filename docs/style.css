@@ -13,3 +13,15 @@ p {
 	padding-right: 20px;
 	font-size: 14px;
 }
+p#table_name {
+	font-size: 20px;
+}
+h3#tagsName {
+	padding-left: 35px;
+}
+h3#attName {
+	padding-left: 35px;
+}
+a#links {
+	padding-left: 20px;
+}
